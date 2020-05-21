@@ -20,7 +20,7 @@ class MyDocument  extends Document {
       /* podemos aprobechar para sobreescribir algunas etiquetas como lang="es"  */
       <Html lang="es">
         <Head>
-          <body>
+          <body className="ed-grid">
             <Main />
             <NextScript />
           </body>
